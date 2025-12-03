@@ -1,0 +1,736 @@
+Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,company_size
+37.0,Female,United States,IL,,No,Yes,Often,6-25,No,Yes,Yes,Maybe,No,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,Yes,No,Small
+44.0,Male,United States,IN,,No,No,Rarely,More than 1000,No,No,Maybe,No,Maybe,Maybe,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Large
+31.0,Male,United States,TX,,No,No,Never,100-500,Yes,Yes,Yes,No,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,Yes,Yes,Maybe,No,Medium
+33.0,Male,United States,TN,,Yes,No,Sometimes,6-25,No,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,Unsure,Maybe,No,Small
+35.0,Female,United States,MI,,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,No,Somewhat difficult,Maybe,Maybe,some of them,No,No,No,Maybe,No,Small
+42.0,Female,United States,IL,,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Very difficult,Maybe,No,Yes,Yes,No,Unsure,No,No,Medium
+31.0,Male,United States,OH,,No,Yes,Sometimes,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Small
+42.0,Female,United States,CA,,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Maybe,Somewhat difficult,Yes,Yes,Yes,Yes,Unsure,Unsure,No,Yes,Medium
+36.0,Male,United States,CT,,Yes,No,Never,500-1000,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,No,Maybe,No,Large
+29.0,Female,United States,IL,,Yes,Yes,Rarely,26-100,No,Yes,Yes,Maybe,No,No,Maybe,Somewhat easy,No,No,Yes,some of them,Unsure,Unsure,Maybe,No,Medium
+32.0,Male,United States,TN,,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,No,No,Small
+46.0,Male,United States,MD,Yes,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Maybe,Yes,Maybe,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes,Small
+29.0,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,No,Somewhat difficult,Maybe,No,some of them,some of them,No,No,No,No,Medium
+31.0,Male,United States,NC,Yes,No,No,Never,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,some of them,some of them,No,Unsure,Yes,No,Small
+46.0,Male,United States,MA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,Unsure,No,No,Medium
+41.0,Male,United States,IA,No,No,Yes,Never,More than 1000,No,No,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Yes,Maybe,No,Large
+33.0,Male,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Maybe,Maybe,Yes,Yes,Not sure,No,No,Yes,Yes,No,Yes,Maybe,No,Medium
+35.0,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No,Maybe,No,Very easy,Yes,No,some of them,Yes,No,Yes,No,No,Large
+33.0,Male,United States,TN,No,No,No,,1-5,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,No,No,No,Maybe,No,Small
+35.0,Female,United States,CA,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+34.0,Male,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Somewhat difficult,No,No,some of them,No,No,No,No,No,Medium
+31.0,Male,United States,PA,Yes,Yes,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Maybe,Somewhat difficult,Yes,No,No,No,No,No,No,Yes,Small
+42.0,Male,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,some of them,some of them,Unsure,Yes,Maybe,No,Medium
+40.0,Female,United States,WI,No,No,Yes,Sometimes,1-5,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Yes,No,Small
+27.0,Male,United States,NY,No,No,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Maybe,Very easy,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Small
+50.0,Male,United States,IN,No,No,No,,100-500,No,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+35.0,Male,United States,TX,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Large
+35.0,Male,United States,MI,No,No,No,,More than 1000,Yes,Yes,Yes,Maybe,Maybe,Yes,Maybe,Somewhat difficult,Yes,Yes,some of them,No,No,Unsure,Maybe,No,Large
+30.0,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,No,No,No,Unsure,Maybe,No,Medium
+38.0,Female,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Medium
+34.0,Male,United States,TN,No,No,No,,6-25,No,Yes,No,No,No,No,Maybe,Not sure,No,No,Yes,Yes,Unsure,Yes,Maybe,No,Small
+30.0,Male,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,No,Medium
+22.0,Male,United States,TX,No,Yes,Yes,Often,6-25,No,Yes,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,No,Unsure,Maybe,No,Small
+33.0,Male,United States,UT,No,No,No,,100-500,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Medium
+32.0,Male,United States,TN,No,No,No,Never,1-5,Yes,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,No,Small
+27.0,Male,United States,NY,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,No,No,No,No,No,Maybe,No,Medium
+32.0,Nonbinary / Other,United States,TN,No,Yes,No,,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Small
+24.0,Male,United States,NY,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Not sure,No,Maybe,some of them,Yes,Yes,Yes,No,No,Medium
+26.0,Male,United States,TN,No,No,No,,26-100,No,No,No,No,No,No,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Yes,Maybe,No,Medium
+44.0,Male,United States,IA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,No,Maybe,Maybe,Not sure,Yes,Maybe,some of them,No,No,Unsure,Maybe,Yes,Large
+40.0,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,Yes,Maybe,some of them,No,No,No,No,Yes,Large
+36.0,Male,United States,TX,No,No,No,Sometimes,100-500,Yes,Yes,Yes,No,Maybe,Yes,Maybe,Not sure,Maybe,No,some of them,some of them,Unsure,Yes,Yes,No,Medium
+31.0,Female,United States,NM,No,No,No,,26-100,Yes,No,Maybe,No,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+34.0,Male,United States,NY,Yes,No,No,Rarely,1-5,Yes,Yes,No,No,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Small
+23.0,Nonbinary / Other,United States,MA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,Large
+33.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Maybe,Maybe,Yes,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Yes,No,Large
+25.0,Male,United States,WA,No,No,No,,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,Yes,Yes,Unsure,Yes,Yes,No,Large
+31.0,Male,United States,WA,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+32.0,Male,United States,UT,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,No,No,Maybe,Somewhat difficult,Yes,No,some of them,No,No,Yes,No,No,Medium
+38.0,Male,United States,NY,No,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Maybe,Not sure,No,No,Yes,some of them,Unsure,Unsure,Yes,No,Medium
+27.0,Female,United States,NY,Yes,No,Yes,Often,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,some of them,Yes,No,Unsure,Yes,No,Small
+33.0,Male,United States,CA,No,Yes,No,Never,More than 1000,No,Yes,No,No,No,No,Maybe,Not sure,Yes,No,No,No,No,Unsure,No,No,Large
+31.0,Male,United States,TX,No,No,No,,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,No,No,Medium
+34.0,Female,United States,OR,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,Yes,Maybe,some of them,some of them,No,No,Maybe,No,Large
+29.0,Female,United States,FL,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,No,Yes,Medium
+32.0,Male,United States,IL,No,No,No,,500-1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,No,Large
+31.0,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Large
+40.0,Male,United States,TX,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No,Medium
+34.0,Male,United States,OH,No,No,No,,26-100,No,Yes,Maybe,No,No,No,Maybe,Somewhat easy,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+29.0,Male,United States,MN,No,No,No,Never,26-100,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,Yes,Yes,Unsure,Unsure,No,No,Medium
+24.0,Male,United States,MO,No,Yes,No,Rarely,26-100,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Somewhat easy,Maybe,Maybe,some of them,No,No,Unsure,Maybe,No,Medium
+33.0,Male,United States,AZ,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Maybe,Somewhat easy,Maybe,No,some of them,No,No,Unsure,No,No,Small
+30.0,Male,United States,IN,No,No,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+44.0,Female,United States,MA,No,No,No,Never,100-500,No,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,Maybe,No,some of them,No,No,Maybe,No,Medium
+25.0,Male,United States,NY,No,Yes,No,,26-100,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Very easy,No,No,some of them,Yes,No,No,Maybe,No,Medium
+33.0,Male,United States,WI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Medium
+29.0,Male,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Somewhat easy,No,No,some of them,Yes,No,No,Maybe,No,Large
+35.0,Male,United States,MO,No,Yes,No,Rarely,6-25,No,Yes,Yes,Maybe,No,No,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Maybe,No,Small
+35.0,Male,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Maybe,Maybe,No,No,Maybe,Somewhat easy,No,No,some of them,Yes,No,Unsure,No,No,Medium
+34.0,Male,United States,TN,No,Yes,No,Never,6-25,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Small
+32.0,Male,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,some of them,Yes,No,Unsure,Yes,No,Medium
+22.0,Male,United States,NY,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Maybe,Yes,Not sure,Yes,No,No,No,No,Yes,No,No,Large
+28.0,Male,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,some of them,No,Unsure,Yes,No,Medium
+45.0,Male,United States,MO,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Small
+32.0,Male,United States,NY,No,No,No,Never,100-500,No,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Medium
+28.0,Male,United States,TX,No,No,No,,More than 1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Large
+18.0,Male,United States,CT,No,No,Yes,Rarely,1-5,Yes,Yes,No,No,No,No,Yes,Very easy,No,No,some of them,No,No,No,Maybe,No,Small
+35.0,Male,United States,CO,No,No,No,,26-100,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Medium
+29.0,Male,United States,GA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Maybe,Not sure,Yes,Yes,No,No,No,No,Maybe,No,Large
+25.0,Male,United States,DC,No,No,No,,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Very easy,No,No,some of them,Yes,No,No,Maybe,No,Medium
+33.0,Male,United States,MN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Maybe,No,Maybe,Maybe,Yes,Very easy,No,No,Yes,Yes,No,Unsure,Yes,No,Small
+36.0,Male,United States,WA,No,No,No,Often,6-25,No,Yes,Yes,No,No,No,Yes,Not sure,Maybe,No,No,No,No,No,Maybe,No,Small
+27.0,Male,United States,WA,No,Yes,No,Never,500-1000,No,Yes,Yes,No,Yes,Yes,Yes,Not sure,Yes,No,some of them,No,No,Yes,Maybe,No,Large
+32.0,Male,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Not sure,Yes,No,No,Yes,No,No,Maybe,No,Medium
+33.0,Male,United States,IL,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Maybe,Very easy,Maybe,No,Yes,some of them,No,Yes,No,No,Large
+32.0,Male,United States,CA,No,No,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Maybe,Very difficult,Maybe,No,Yes,some of them,No,Yes,Maybe,No,Small
+27.0,Male,United States,NE,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Medium
+39.0,Male,United States,IA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Maybe,No,No,Maybe,Somewhat easy,No,No,Yes,Yes,No,No,Maybe,No,Large
+29.0,Female,United States,MD,No,No,No,,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,No,No,No,Maybe,No,Small
+38.0,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,No,Medium
+35.0,Male,United States,TX,No,No,No,Never,26-100,Yes,No,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Yes,No,some of them,No,No,Unsure,Maybe,No,Medium
+30.0,Female,United States,PA,No,Yes,No,,More than 1000,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,Unsure,Maybe,No,Large
+37.0,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Yes,Maybe,Somewhat easy,Maybe,Maybe,some of them,Yes,Unsure,Unsure,Maybe,No,Medium
+23.0,Male,United States,WV,No,No,No,Sometimes,6-25,No,No,No,No,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,Small
+29.0,Female,United States,MI,No,No,No,,100-500,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,some of them,No,Unsure,Maybe,No,Medium
+32.0,Male,United States,CA,No,Yes,No,Never,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Very easy,No,No,some of them,some of them,No,Unsure,No,No,Medium
+36.0,Male,United States,IL,No,No,No,Never,6-25,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,Unsure,Unsure,Maybe,No,Small
+25.0,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Maybe,No,No,Maybe,Maybe,Somewhat difficult,Maybe,No,some of them,some of them,No,Unsure,No,No,Medium
+27.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,No,some of them,No,Unsure,Maybe,No,Large
+26.0,Male,United States,OK,No,No,No,Often,26-100,No,No,Maybe,Maybe,No,No,Maybe,Not sure,Yes,Maybe,some of them,Yes,No,Unsure,No,No,Medium
+27.0,Male,United States,UT,No,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,No,No,Maybe,Somewhat difficult,Maybe,No,some of them,Yes,No,No,Maybe,Yes,Medium
+25.0,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Very easy,Maybe,No,some of them,No,No,No,Maybe,Yes,Medium
+25.0,Female,United States,NY,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,No,No,No,Maybe,Not sure,Yes,Yes,some of them,some of them,No,No,Maybe,No,Large
+31.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Yes,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,No,Large
+26.0,Male,United States,MA,No,Yes,No,Rarely,6-25,No,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,No,Small
+33.0,Female,United States,WA,Yes,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,Yes,Yes,Yes,Very difficult,No,No,some of them,Yes,No,Yes,Yes,No,Small
+34.0,Male,United States,MN,No,No,No,Never,26-100,No,Yes,No,No,No,No,Maybe,Very easy,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+42.0,Male,United States,CA,No,No,No,,6-25,No,Yes,No,Yes,No,No,Maybe,Very difficult,Maybe,No,Yes,Yes,No,Unsure,No,No,Small
+23.0,Female,United States,NC,No,No,No,,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,Yes,No,Unsure,Yes,No,Small
+31.0,Male,United States,MO,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,some of them,No,Unsure,Maybe,No,Medium
+32.0,Female,United States,MA,No,No,Yes,Often,6-25,Yes,Yes,Yes,Maybe,Maybe,Maybe,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,Small
+45.0,Female,United States,CA,No,No,Yes,Sometimes,1-5,No,Yes,Yes,No,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Small
+33.0,Male,United States,TX,No,No,No,,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Very easy,No,No,Yes,Yes,No,Unsure,Maybe,No,Small
+45.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Yes,Yes,some of them,some of them,No,No,Maybe,No,Large
+43.0,Male,United States,WA,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Maybe,No,Maybe,Maybe,Very difficult,Yes,Maybe,No,No,No,No,No,No,Large
+37.0,Male,United States,MA,No,No,No,,500-1000,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Yes,No,some of them,No,Unsure,Yes,No,No,Large
+35.0,Female,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Maybe,Maybe,No,Yes,Somewhat easy,Maybe,No,No,No,No,No,Maybe,No,Large
+28.0,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Maybe,Somewhat easy,Maybe,Maybe,some of them,No,No,Unsure,No,No,Medium
+35.0,Male,United States,CA,No,No,Yes,Rarely,6-25,No,Yes,No,No,No,No,Yes,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Small
+35.0,Female,United States,NY,No,No,No,Never,500-1000,Yes,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,Maybe,some of them,No,No,No,Maybe,No,Large
+26.0,Male,United States,CA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,No,No,Large
+27.0,Male,United States,TN,No,Yes,No,,6-25,Yes,Yes,Yes,Yes,No,No,Maybe,Somewhat easy,Maybe,Maybe,some of them,some of them,No,Unsure,Yes,No,Small
+27.0,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,No,Maybe,Very easy,No,No,some of them,some of them,No,No,Yes,No,Medium
+34.0,Female,United States,MN,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,some of them,Yes,No,No,Yes,No,Large
+41.0,Male,United States,FL,No,No,Yes,Often,6-25,Yes,Yes,No,Maybe,No,No,Maybe,Very difficult,Maybe,Maybe,some of them,some of them,Unsure,Unsure,Maybe,No,Small
+30.0,Male,United States,MA,No,No,Yes,Often,26-100,No,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Unsure,Maybe,No,Medium
+24.0,Male,United States,KS,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+40.0,Female,United States,DC,No,No,No,,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Medium
+32.0,Female,United States,TX,No,Yes,Yes,Sometimes,6-25,No,Yes,Maybe,No,No,No,No,Not sure,Yes,Maybe,some of them,some of them,No,Unsure,No,Yes,Small
+32.0,Female,United States,MA,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Maybe,Maybe,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Medium
+27.0,Female,United States,MI,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Maybe,Maybe,Maybe,Very difficult,No,No,some of them,No,No,No,Maybe,No,Small
+29.0,Female,United States,NY,No,No,Yes,Never,500-1000,No,No,Yes,No,No,Maybe,Maybe,Somewhat difficult,Maybe,No,some of them,No,No,No,Maybe,No,Large
+41.0,Nonbinary / Other,United States,VA,No,No,No,,26-100,No,Yes,Yes,Maybe,No,No,Maybe,Very easy,Yes,No,No,some of them,No,No,Maybe,No,Medium
+34.0,Female,United States,WA,No,No,No,,6-25,No,Yes,Yes,No,No,No,Maybe,Somewhat easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+28.0,Male,United States,PA,No,No,No,Rarely,6-25,No,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,some of them,some of them,No,Unsure,Maybe,No,Small
+28.0,Male,United States,MI,No,No,Yes,Sometimes,More than 1000,No,Yes,No,Yes,No,No,Yes,Very difficult,Yes,No,No,some of them,No,No,No,No,Large
+23.0,Male,United States,PA,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,No,Yes,No,Yes,Yes,No,Medium
+24.0,Male,United States,OR,No,No,No,,1-5,No,Yes,Maybe,No,Maybe,No,Yes,Very easy,No,No,Yes,Yes,Unsure,Yes,Yes,No,Small
+32.0,Male,United States,WA,No,No,No,Rarely,1-5,Yes,Yes,No,Yes,No,No,Maybe,Very difficult,No,No,some of them,Yes,No,Unsure,Yes,No,Small
+24.0,Male,United States,PA,No,No,No,Never,6-25,No,Yes,Yes,Maybe,No,Maybe,Maybe,Very easy,Maybe,No,some of them,No,Unsure,Unsure,Yes,No,Small
+36.0,Male,United States,OH,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Yes,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,Yes,Medium
+41.0,Male,United States,TX,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,No,Unsure,Unsure,No,No,Large
+38.0,Male,United States,NH,No,No,No,Sometimes,26-100,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,Yes,No,Unsure,No,No,Medium
+37.0,Female,United States,NC,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,some of them,No,Unsure,Yes,No,Large
+34.0,Male,United States,FL,No,Yes,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Maybe,Somewhat difficult,Maybe,No,some of them,some of them,No,Unsure,No,Yes,Small
+33.0,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Maybe,No,Medium
+27.0,Male,United States,GA,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Large
+40.0,Male,United States,OH,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,Yes,Maybe,No,No,No,Unsure,No,Yes,Large
+21.0,Male,United States,KY,No,No,Yes,Often,6-25,No,No,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Small
+32.0,Male,United States,NC,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Maybe,Not sure,Maybe,No,Yes,Yes,No,Yes,Maybe,No,Small
+29.0,Female,United States,NY,No,Yes,Yes,Rarely,500-1000,Yes,No,Yes,Yes,Yes,Maybe,Yes,Not sure,Maybe,No,some of them,No,Unsure,Yes,Maybe,No,Large
+23.0,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,No,Maybe,No,No,Maybe,Yes,Somewhat easy,Maybe,No,some of them,some of them,No,Yes,Yes,No,Medium
+28.0,Male,United States,GA,No,Yes,No,,100-500,No,Yes,Yes,No,No,Maybe,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,Yes,Yes,Medium
+31.0,Male,United States,CA,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Very easy,No,No,some of them,Yes,No,Unsure,Yes,No,Medium
+24.0,Male,United States,VA,No,No,No,Sometimes,6-25,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Not sure,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Small
+42.0,Male,United States,WA,No,No,No,Never,6-25,Yes,Yes,No,Yes,No,Yes,Maybe,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Small
+27.0,Female,United States,TX,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Yes,Not sure,Maybe,Maybe,Yes,No,No,Unsure,Maybe,No,Small
+30.0,Male,United States,FL,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Not sure,No,No,Yes,Yes,Unsure,No,Yes,No,Medium
+32.0,Male,United States,NV,No,No,No,,6-25,No,Yes,No,Yes,No,Maybe,Maybe,Very easy,No,No,some of them,Yes,No,Unsure,Maybe,No,Small
+41.0,Male,United States,AL,No,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,Maybe,No,Maybe,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Medium
+37.0,Female,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,No,some of them,some of them,No,Yes,Maybe,No,Medium
+32.0,Male,United States,CO,No,No,No,Never,6-25,Yes,Yes,No,No,No,No,Maybe,Very easy,No,No,Yes,Yes,No,No,Maybe,No,Small
+23.0,Female,United States,MN,No,Yes,Yes,Never,100-500,No,No,Yes,No,Maybe,Maybe,Yes,Not sure,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Medium
+30.0,Male,United States,NJ,No,No,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,No,No,Yes,No,Large
+38.0,Male,United States,PA,No,No,Yes,Rarely,26-100,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Yes,No,No,No,No,Unsure,No,No,Medium
+34.0,Male,United States,MO,No,No,No,,26-100,No,No,Yes,No,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Medium
+28.0,Male,United States,MN,No,No,Yes,Rarely,100-500,No,No,Yes,Yes,Yes,Maybe,Maybe,Very easy,Maybe,No,some of them,some of them,No,No,Yes,No,Medium
+23.0,Male,United States,PA,No,Yes,No,Sometimes,100-500,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,No,No,Medium
+18.0,Male,United States,TX,No,No,Yes,Sometimes,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Yes,No,No,No,No,Unsure,Maybe,No,Small
+35.0,Male,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,some of them,No,Unsure,Maybe,No,Medium
+26.0,Female,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Large
+18.0,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Very easy,No,No,some of them,some of them,No,Unsure,Yes,No,Medium
+38.0,Female,United States,TX,No,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,Maybe,Not sure,No,Maybe,some of them,No,No,No,Maybe,Yes,Small
+26.0,Female,United States,TX,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,No,No,No,Maybe,No,Large
+35.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Yes,Maybe,some of them,some of them,No,No,Maybe,No,Large
+45.0,Male,United States,NY,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe,Maybe,Yes,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Large
+32.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Large
+24.0,Female,United States,CA,No,No,No,,500-1000,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,No,No,Unsure,No,No,Large
+30.0,Female,United States,SC,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Medium
+60.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Yes,No,Maybe,Yes,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Large
+33.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Maybe,Not sure,Yes,No,No,No,No,Unsure,Maybe,No,Large
+37.0,Male,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Large
+23.0,Female,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,some of them,some of them,No,No,Yes,No,Large
+31.0,Female,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Large
+26.0,Male,United States,MA,No,No,No,Rarely,100-500,No,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+28.0,Female,United States,WA,No,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,some of them,Yes,No,No,Yes,No,Medium
+37.0,Female,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Maybe,Yes,Maybe,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Large
+30.0,Nonbinary / Other,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Maybe,No,No,Maybe,Somewhat easy,Maybe,No,some of them,Yes,No,No,Maybe,No,Medium
+26.0,Male,United States,IN,No,No,No,,26-100,No,Yes,No,No,No,No,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,Yes,Medium
+25.0,Male,United States,OR,No,No,No,,26-100,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+27.0,Male,United States,TN,No,No,No,Sometimes,100-500,No,Yes,Yes,Maybe,Yes,Yes,Maybe,Not sure,Maybe,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+35.0,Male,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Maybe,Maybe,Yes,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+36.0,Male,United States,WA,Yes,No,Yes,Never,1-5,No,Yes,No,Yes,No,No,Maybe,Somewhat easy,Maybe,No,some of them,Yes,No,No,Yes,No,Small
+26.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,Yes,No,No,No,No,No,No,No,Large
+27.0,Male,United States,CA,No,Yes,No,,More than 1000,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Large
+30.0,Male,United States,VT,No,No,No,,6-25,No,No,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Small
+29.0,Male,United States,NY,No,No,No,,100-500,No,No,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Medium
+25.0,Male,United States,UT,No,No,No,Never,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Large
+22.0,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,some of them,No,No,Yes,Yes,Large
+41.0,Male,United States,SD,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Medium
+29.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Maybe,Maybe,Not sure,Yes,No,some of them,some of them,No,Unsure,No,No,Large
+32.0,Male,United States,OR,No,No,No,Never,500-1000,No,Yes,Yes,Maybe,Maybe,Yes,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Large
+24.0,Female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Large
+25.0,Male,United States,CA,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,Maybe,No,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Small
+25.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Large
+30.0,Female,United States,CO,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,some of them,No,No,Maybe,No,Large
+25.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Maybe,Maybe,Maybe,Yes,Maybe,Not sure,No,No,Yes,Yes,No,No,Yes,No,Large
+30.0,Male,United States,OH,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Small
+24.0,Male,United States,WA,No,No,No,,26-100,No,Yes,Yes,Maybe,Yes,Yes,Yes,Very easy,No,No,some of them,some of them,No,Unsure,Yes,No,Medium
+31.0,Male,United States,OH,No,No,No,,100-500,No,No,Maybe,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,Medium
+46.0,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Very easy,No,No,some of them,some of them,Unsure,Unsure,Maybe,No,Medium
+29.0,Female,United States,CA,Yes,No,No,Sometimes,More than 1000,No,Yes,Yes,Maybe,Maybe,No,Maybe,Very easy,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+24.0,Male,United States,MA,No,No,No,,More than 1000,No,Yes,Yes,Yes,Maybe,Maybe,Yes,Not sure,Yes,No,No,No,No,Unsure,Maybe,No,Large
+29.0,Male,United States,WA,No,No,No,,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,No,Unsure,Yes,No,Medium
+35.0,Male,United States,MI,No,No,No,,26-100,No,No,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,No,No,No,Medium
+33.0,Female,United States,WA,No,Yes,No,Sometimes,26-100,Yes,Yes,No,Yes,No,No,Maybe,Very difficult,Yes,Maybe,some of them,some of them,No,Unsure,No,No,Medium
+27.0,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Very easy,Yes,No,No,No,No,Unsure,No,No,Large
+36.0,Male,United States,IA,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Large
+25.0,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+23.0,Male,United States,AL,No,Yes,Yes,Sometimes,100-500,No,No,Maybe,No,No,No,Maybe,Not sure,No,No,Yes,Yes,Unsure,Yes,Maybe,No,Medium
+54.0,Male,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Maybe,No,Yes,Yes,Maybe,Not sure,No,No,No,Yes,No,No,Maybe,No,Large
+22.0,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Large
+25.0,Nonbinary / Other,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Yes,No,Large
+27.0,Male,United States,MA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,No,No,No,No,No,Yes,Yes,No,Large
+26.0,Male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Maybe,Maybe,Yes,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Large
+31.0,Male,United States,CA,No,No,Yes,Sometimes,500-1000,No,No,No,Yes,No,Maybe,Yes,Not sure,No,No,some of them,No,No,No,No,No,Large
+33.0,Male,United States,IN,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Medium
+34.0,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe,Yes,Yes,Not sure,Maybe,Maybe,No,No,No,No,Maybe,No,Large
+34.0,Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,No,No,No,No,Maybe,Somewhat easy,Yes,Yes,some of them,some of them,No,Unsure,Maybe,No,Medium
+29.0,Male,United States,IN,Yes,No,No,,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+33.0,Nonbinary / Other,United States,WA,No,No,No,,6-25,No,Yes,No,No,No,No,Maybe,Somewhat difficult,Maybe,No,some of them,some of them,No,No,Maybe,No,Small
+26.0,Male,United States,OK,Yes,Yes,Yes,Rarely,100-500,Yes,No,No,No,No,Maybe,No,Not sure,Maybe,No,some of them,Yes,No,Yes,No,No,Medium
+32.0,Male,United States,MI,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,No,No,some of them,Yes,No,Yes,Yes,No,Large
+28.0,Male,United States,GA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,Large
+35.0,Male,United States,CA,No,Yes,No,,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,No,No,Maybe,No,Large
+21.0,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,Maybe,Yes,Not sure,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Medium
+22.0,Female,United States,WA,No,No,No,,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Somewhat easy,No,No,No,some of them,No,No,Yes,No,Large
+41.0,Male,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Yes,Yes,Maybe,Somewhat difficult,Maybe,No,Yes,some of them,No,Unsure,No,Yes,Large
+55.0,Male,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Large
+32.0,Female,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,some of them,Yes,No,Unsure,Yes,No,Medium
+21.0,Female,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Maybe,Maybe,Maybe,No,Maybe,Somewhat easy,Yes,No,some of them,No,No,Yes,Maybe,No,Medium
+45.0,Male,United States,MA,No,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Maybe,No,No,some of them,No,Unsure,Maybe,No,Medium
+27.0,Female,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Not sure,Yes,Maybe,No,No,No,No,No,No,Large
+25.0,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Yes,No,Medium
+34.0,Female,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,Maybe,some of them,some of them,No,No,Yes,No,Large
+26.0,Female,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Not sure,Maybe,No,No,No,No,No,Maybe,No,Large
+27.0,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,No,Yes,Yes,Yes,Not sure,No,No,some of them,Yes,No,Unsure,Yes,No,Large
+31.0,Nonbinary / Other,United States,IN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Maybe,Not sure,No,No,Yes,Yes,No,No,Maybe,No,Medium
+26.0,Male,United States,NV,No,No,Yes,Sometimes,6-25,No,Yes,Maybe,No,No,No,Maybe,Not sure,Yes,Yes,some of them,No,No,No,No,No,Small
+27.0,Female,United States,CO,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,Maybe,No,Yes,No,No,Maybe,No,Large
+29.0,Nonbinary / Other,United States,CA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,No,No,Maybe,Very difficult,Yes,No,some of them,No,No,Unsure,No,No,Small
+25.0,Female,United States,CA,No,No,Yes,Sometimes,6-25,No,Yes,Maybe,Maybe,No,No,Maybe,Somewhat difficult,Yes,No,some of them,No,No,Unsure,Maybe,No,Small
+40.0,Female,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,No,Maybe,Maybe,Maybe,Somewhat easy,Maybe,Maybe,No,No,No,No,Maybe,No,Large
+31.0,Male,United States,SC,No,No,No,Never,More than 1000,No,Yes,Maybe,No,No,Maybe,Maybe,Somewhat easy,Yes,No,some of them,No,No,No,Maybe,No,Large
+24.0,Female,United States,TX,No,Yes,No,,500-1000,No,No,No,No,No,No,No,Very difficult,Yes,Maybe,No,No,No,Unsure,No,Yes,Large
+29.0,Male,United States,TX,No,No,No,Never,More than 1000,No,No,Yes,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Large
+32.0,Female,United States,AL,No,No,No,Never,100-500,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,No,some of them,No,Unsure,Maybe,No,Medium
+26.0,Male,United States,OR,No,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Maybe,Somewhat difficult,Maybe,No,some of them,Yes,No,No,No,No,Small
+28.0,Male,United States,NJ,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,No,No,Medium
+23.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,No,No,Large
+35.0,Male,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Maybe,Very difficult,Maybe,Maybe,some of them,some of them,No,Unsure,No,Yes,Medium
+26.0,Male,United States,CA,No,Yes,No,,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,some of them,Yes,Unsure,Unsure,No,No,Small
+33.0,Male,United States,NH,No,Yes,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,Yes,Maybe,Yes,some of them,No,No,Yes,No,Medium
+33.0,Male,United States,CA,No,No,No,,More than 1000,Yes,Yes,Maybe,No,Maybe,Maybe,Maybe,Not sure,Yes,No,some of them,No,No,Unsure,Yes,No,Large
+33.0,Male,United States,OH,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Yes,No,No,Maybe,Somewhat easy,Yes,No,No,No,No,No,No,No,Large
+31.0,Female,United States,OH,No,Yes,Yes,Rarely,More than 1000,No,No,Maybe,Maybe,No,Maybe,Maybe,Very difficult,Yes,Maybe,No,No,No,Unsure,No,No,Large
+21.0,Male,United States,MA,No,Yes,No,Never,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,Unsure,Maybe,Yes,Large
+26.0,Female,United States,OK,No,No,Yes,Sometimes,100-500,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Somewhat difficult,No,No,some of them,some of them,No,No,Yes,No,Medium
+30.0,Male,United States,CA,No,Yes,No,Often,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,Yes,No,No,Maybe,No,Small
+55.0,Male,United States,ID,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,No,No,Yes,Small
+28.0,Female,United States,NY,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Large
+21.0,Male,United States,CA,No,No,No,Sometimes,6-25,No,No,Maybe,Maybe,No,Yes,Yes,Not sure,No,No,some of them,some of them,Unsure,Unsure,Yes,No,Small
+24.0,Male,United States,TX,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Maybe,Somewhat difficult,Yes,No,some of them,some of them,No,Unsure,No,Yes,Medium
+26.0,Female,United States,MD,No,No,No,,More than 1000,No,No,Yes,Maybe,Yes,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Large
+23.0,Male,United States,IN,No,No,No,,More than 1000,No,No,Yes,No,No,No,Maybe,Not sure,No,No,Yes,No,No,Yes,Maybe,No,Large
+24.0,Female,United States,OR,No,No,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,some of them,Yes,Yes,Yes,No,Large
+24.0,Female,United States,NY,No,Yes,Yes,Rarely,6-25,No,Yes,No,No,No,No,Maybe,Very easy,Yes,No,No,some of them,No,Yes,Yes,No,Small
+33.0,Male,United States,MS,Yes,No,Yes,Often,1-5,Yes,Yes,No,No,No,No,Yes,Somewhat easy,Yes,Maybe,some of them,some of them,Yes,Yes,Maybe,No,Small
+34.0,Male,United States,NJ,No,No,No,Sometimes,26-100,No,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,No,Yes,Yes,No,Unsure,Maybe,No,Medium
+27.0,Female,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Somewhat difficult,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Medium
+28.0,Male,United States,TN,No,No,No,Never,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Small
+26.0,Male,United States,WA,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,Yes,Large
+23.0,Female,United States,MA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+29.0,Male,United States,PA,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+36.0,Male,United States,KY,No,No,No,Rarely,More than 1000,Yes,Yes,Yes,No,Yes,Maybe,Maybe,Somewhat easy,Maybe,No,No,No,No,No,Maybe,No,Large
+41.0,Male,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,No,some of them,Yes,Unsure,Yes,Yes,Yes,Large
+33.0,Female,United States,MA,No,No,No,,100-500,Yes,Yes,Yes,No,Maybe,No,Maybe,Not sure,No,No,some of them,Yes,No,No,Yes,No,Medium
+39.0,Male,United States,CA,No,Yes,No,Often,More than 1000,No,Yes,Yes,No,No,Maybe,Maybe,Not sure,Yes,No,some of them,some of them,No,Unsure,No,Yes,Large
+34.0,Male,United States,VT,No,Yes,No,,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,Yes,Large
+26.0,Female,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Maybe,Somewhat difficult,Yes,Maybe,some of them,some of them,No,No,No,Yes,Medium
+24.0,Male,United States,AZ,No,No,Yes,Rarely,26-100,No,Yes,Yes,Yes,Yes,No,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+43.0,Male,United States,MA,Yes,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+40.0,Nonbinary / Other,United States,VA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Maybe,Yes,Not sure,Yes,Maybe,No,some of them,No,Unsure,Yes,No,Large
+30.0,Male,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,No,Maybe,Very difficult,Yes,No,some of them,No,No,No,No,Yes,Large
+34.0,Male,United States,CA,No,No,Yes,Sometimes,6-25,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Yes,Yes,some of them,No,No,No,Maybe,No,Small
+27.0,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Yes,No,No,No,No,Yes,Maybe,No,Medium
+36.0,Male,United States,MI,No,No,No,Sometimes,More than 1000,No,Yes,Maybe,No,No,No,Yes,Somewhat easy,No,No,Yes,Yes,Unsure,Yes,Maybe,No,Large
+37.0,Male,United States,OR,No,No,No,,500-1000,No,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+33.0,Female,United States,CA,No,No,No,Never,500-1000,No,Yes,Yes,Maybe,Yes,Yes,Maybe,Very easy,Maybe,No,some of them,Yes,No,No,Yes,No,Large
+28.0,Nonbinary / Other,United States,UT,No,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Maybe,Somewhat easy,Yes,Maybe,some of them,No,No,No,Maybe,No,Small
+26.0,Female,United States,CA,No,Yes,No,Never,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Somewhat difficult,Maybe,Maybe,some of them,No,No,Unsure,No,No,Medium
+27.0,Male,United States,TX,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Maybe,No,Yes,Maybe,Maybe,Somewhat easy,Yes,No,some of them,Yes,No,Unsure,Yes,No,Small
+57.0,Male,United States,CA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,Unsure,No,No,Large
+31.0,Male,United States,OR,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,No,No,Yes,No,Medium
+58.0,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,some of them,Yes,No,Yes,Yes,No,Large
+29.0,Male,United States,OH,No,No,No,Sometimes,6-25,No,Yes,Maybe,No,No,No,Maybe,Very difficult,Yes,No,No,No,No,Unsure,No,No,Small
+34.0,Male,United States,OH,No,No,No,Sometimes,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Very difficult,Maybe,No,some of them,Yes,No,Unsure,Maybe,No,Small
+57.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Maybe,Yes,Yes,Maybe,Not sure,Maybe,Maybe,No,No,No,Unsure,Maybe,No,Large
+30.0,Female,United States,NY,No,No,No,,100-500,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+23.0,Male,United States,VA,No,No,No,Never,26-100,No,No,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,Yes,Yes,Unsure,Yes,Yes,No,Medium
+43.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,Maybe,No,Large
+29.0,Male,United States,IL,No,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Small
+48.0,Male,United States,TX,No,No,No,Never,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Small
+28.0,Female,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Yes,Maybe,some of them,No,No,Unsure,Maybe,No,Medium
+30.0,Male,United States,CA,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Small
+31.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Yes,Not sure,No,No,No,some of them,No,No,Yes,No,Large
+30.0,Male,United States,PA,No,No,No,Rarely,100-500,No,No,Maybe,Maybe,No,No,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,No,Medium
+24.0,Female,United States,CA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,Yes,Small
+25.0,Male,United States,WA,No,No,No,,26-100,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Medium
+23.0,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Maybe,Maybe,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Yes,Yes,Large
+36.0,Male,United States,TX,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Maybe,No,No,Maybe,Somewhat difficult,Yes,Maybe,some of them,No,No,No,No,Yes,Large
+25.0,Female,United States,CA,Yes,Yes,Yes,Often,1-5,Yes,Yes,Maybe,Maybe,No,No,Yes,Somewhat difficult,Yes,No,some of them,No,No,Unsure,No,Yes,Small
+38.0,Female,United States,AZ,No,No,Yes,,26-100,No,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,Maybe,No,No,No,No,No,No,Medium
+35.0,Female,United States,OH,No,No,Yes,Sometimes,100-500,No,Yes,No,Yes,No,No,Maybe,Not sure,Yes,Maybe,No,No,No,Unsure,No,No,Medium
+46.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,Maybe,No,some of them,No,No,No,Yes,No,Large
+42.0,Male,United States,KS,No,No,No,Never,100-500,No,No,Yes,No,Yes,No,Maybe,Very difficult,Maybe,No,Yes,Yes,Unsure,Yes,No,No,Medium
+47.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Very easy,No,No,some of them,Yes,No,Yes,Yes,No,Large
+22.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Yes,Maybe,Yes,Maybe,Yes,Not sure,No,No,some of them,Yes,No,Unsure,Yes,No,Large
+33.0,Female,United States,NY,No,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Very easy,No,No,some of them,some of them,No,No,Maybe,No,Large
+25.0,Female,United States,WA,No,No,No,Sometimes,6-25,No,Yes,No,No,No,No,No,Somewhat easy,Maybe,No,some of them,No,No,No,Yes,No,Small
+29.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Large
+39.0,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Medium
+38.0,Male,United States,VA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Maybe,Yes,Yes,Yes,Not sure,Yes,No,No,No,No,No,No,No,Large
+43.0,Male,United States,NC,No,No,No,,6-25,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Small
+46.0,Male,United States,OH,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Not sure,No,No,some of them,Yes,No,Unsure,Yes,No,Large
+38.0,Female,United States,PA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes,Large
+62.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Maybe,Yes,Maybe,Not sure,Maybe,No,some of them,Yes,Unsure,Unsure,Yes,No,Large
+23.0,Female,United States,TX,No,No,No,,More than 1000,No,No,Maybe,Maybe,Maybe,Maybe,Yes,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+35.0,Male,United States,AZ,No,No,No,,More than 1000,No,No,No,No,No,No,Maybe,Not sure,Maybe,Maybe,No,No,No,No,No,No,Large
+36.0,Male,United States,IL,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Maybe,Yes,Maybe,No,Yes,Somewhat difficult,Maybe,No,some of them,Yes,No,Yes,Yes,No,Small
+29.0,Male,United States,NC,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,No,some of them,No,No,Yes,No,Small
+39.0,Male,United States,WI,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Somewhat easy,Yes,No,some of them,Yes,No,No,No,No,Medium
+26.0,Male,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,No,No,No,Large
+22.0,Female,United States,CA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,No,No,Yes,Large
+26.0,Female,United States,MN,No,Yes,Yes,Often,100-500,No,No,Maybe,No,No,No,Maybe,Somewhat difficult,Maybe,No,No,No,No,Unsure,No,No,Medium
+31.0,Female,United States,PA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Medium
+28.0,Female,United States,CA,No,Yes,Yes,Often,100-500,Yes,Yes,Yes,No,No,Maybe,Maybe,Not sure,Yes,Yes,some of them,some of them,No,No,No,Yes,Medium
+36.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Maybe,Somewhat difficult,Yes,No,some of them,Yes,No,Yes,No,No,Large
+21.0,Male,United States,CA,No,Yes,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,No,No,some of them,Yes,No,Unsure,Yes,No,Large
+25.0,Female,United States,CA,No,Yes,No,,500-1000,No,No,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Large
+33.0,Male,United States,NY,No,No,No,,26-100,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Not sure,Yes,No,some of them,No,No,Unsure,Maybe,No,Medium
+24.0,Male,United States,CA,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Yes,No,Large
+65.0,Male,United States,FL,Yes,No,No,,6-25,Yes,No,No,No,No,No,Maybe,Very easy,Maybe,No,some of them,No,No,No,Yes,No,Small
+27.0,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,some of them,No,No,No,Yes,No,Medium
+36.0,Male,United States,CO,No,No,Yes,Rarely,26-100,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,No,Medium
+28.0,Male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,some of them,No,No,Unsure,No,No,Large
+39.0,Male,United States,OR,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Maybe,Yes,Maybe,Yes,Not sure,Yes,Maybe,Yes,Yes,No,Unsure,Maybe,No,Large
+32.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No,Yes,Maybe,Somewhat easy,No,No,Yes,some of them,Unsure,Yes,Maybe,No,Large
+31.0,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Somewhat easy,Maybe,No,No,some of them,No,Yes,No,No,Large
+38.0,Nonbinary / Other,United States,PA,No,Yes,Yes,Sometimes,100-500,No,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,No,No,No,Maybe,No,Medium
+23.0,Male,United States,CA,No,Yes,Yes,Rarely,1-5,No,Yes,No,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Yes,No,Small
+42.0,Nonbinary / Other,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Unsure,Unsure,Maybe,No,Large
+27.0,Female,United States,NY,No,No,No,Sometimes,500-1000,No,Yes,Maybe,Maybe,Maybe,Yes,Maybe,Not sure,No,No,some of them,Yes,No,No,Yes,No,Large
+26.0,Female,United States,MA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes,Medium
+37.0,Male,United States,PA,No,Yes,No,Never,26-100,No,Yes,Maybe,No,No,Maybe,Maybe,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Medium
+23.0,Male,United States,RI,No,No,No,,26-100,No,Yes,Maybe,No,Maybe,No,Maybe,Not sure,No,No,Yes,Yes,No,Unsure,Maybe,No,Medium
+33.0,Male,United States,MI,No,Yes,No,Sometimes,6-25,Yes,Yes,Maybe,Maybe,No,No,Yes,Very easy,No,No,some of them,Yes,No,No,Yes,No,Small
+34.0,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,Yes,No,Yes,No,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+41.0,Male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,Yes,Large
+50.0,Male,United States,OR,No,Yes,No,,100-500,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Medium
+35.0,Male,United States,IN,No,No,No,Never,6-25,No,Yes,No,Yes,No,No,Yes,Very easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Small
+40.0,Female,United States,MA,No,No,No,Never,26-100,No,No,Maybe,Maybe,No,No,Maybe,Somewhat easy,Maybe,Maybe,Yes,Yes,Unsure,Unsure,Maybe,No,Medium
+29.0,Female,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes,Yes,No,Yes,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,Yes,Medium
+31.0,Male,United States,OH,No,Yes,Yes,Sometimes,6-25,No,Yes,No,No,No,No,Maybe,Somewhat easy,Maybe,No,Yes,Yes,No,Unsure,Maybe,No,Small
+43.0,Male,United States,OH,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Maybe,Somewhat easy,No,No,Yes,Yes,No,Unsure,Maybe,No,Small
+34.0,Male,United States,NH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,Yes,Maybe,Yes,Medium
+29.0,Male,United States,OH,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,No,No,No,No,Somewhat difficult,Yes,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+41.0,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Maybe,Yes,Yes,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,No,No,Large
+29.0,Male,United States,OR,No,Yes,No,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,Yes,No,Medium
+23.0,Male,United States,PA,No,No,No,Rarely,100-500,No,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,No,Yes,No,Medium
+31.0,Male,United States,NY,No,No,No,,26-100,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Yes,No,No,No,No,Unsure,Maybe,No,Medium
+43.0,Male,United States,WA,No,No,No,,500-1000,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,No,Yes,No,Large
+31.0,Male,United States,NY,No,Yes,Yes,Rarely,100-500,No,Yes,No,No,No,Maybe,Maybe,Somewhat difficult,Yes,Yes,some of them,No,No,No,No,Yes,Medium
+29.0,Male,United States,CA,No,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+35.0,Male,United States,TN,Yes,Yes,No,,6-25,Yes,Yes,No,No,Yes,Yes,Maybe,Very easy,No,No,Yes,Yes,No,Unsure,Yes,No,Small
+33.0,Male,United States,WI,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Maybe,No,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Medium
+30.0,Nonbinary / Other,United States,WI,Yes,Yes,Yes,Often,1-5,Yes,No,No,Yes,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Small
+27.0,Male,United States,PA,No,No,No,,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Yes,Not sure,Maybe,Maybe,No,No,No,Unsure,No,No,Large
+32.0,Male,United States,MI,No,No,No,Sometimes,100-500,No,Yes,No,Yes,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,No,No,Medium
+50.0,Male,United States,WY,No,No,No,Sometimes,1-5,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Yes,Maybe,some of them,some of them,No,Unsure,Maybe,No,Small
+24.0,Male,United States,KY,No,No,No,Never,26-100,No,No,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,Yes,some of them,No,No,Unsure,No,No,Medium
+27.0,Male,United States,NY,No,No,No,,26-100,No,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,Yes,Yes,No,Unsure,Yes,No,Medium
+32.0,Male,United States,TX,No,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Small
+42.0,Male,United States,WI,Yes,No,No,Rarely,6-25,Yes,No,No,Yes,No,No,Maybe,Very easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Small
+37.0,Male,United States,WA,No,No,No,Often,More than 1000,No,No,Maybe,No,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,No,No,No,Large
+29.0,Male,United States,WA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No,No,No,Maybe,Very easy,Yes,Maybe,some of them,No,No,No,Maybe,No,Large
+30.0,Male,United States,GA,Yes,No,Yes,Often,6-25,Yes,Yes,No,Maybe,No,Yes,Maybe,Somewhat difficult,No,No,Yes,Yes,No,Unsure,Yes,No,Small
+35.0,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,No,Yes,Maybe,Maybe,Not sure,No,No,some of them,some of them,Unsure,Unsure,Yes,No,Medium
+35.0,Male,United States,MD,No,Yes,Yes,Rarely,100-500,Yes,No,Yes,Yes,No,No,Yes,Very difficult,Yes,No,some of them,No,No,Unsure,No,No,Medium
+31.0,Female,United States,WA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Maybe,Very easy,Maybe,No,some of them,some of them,No,Yes,Maybe,No,Medium
+23.0,Female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Maybe,No,Large
+31.0,Female,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,some of them,some of them,No,No,Maybe,No,Medium
+28.0,Female,United States,CA,No,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Somewhat difficult,Maybe,No,No,some of them,No,No,No,No,Large
+34.0,Male,United States,CA,Yes,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,some of them,some of them,No,No,No,No,Small
+28.0,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,Yes,No,some of them,some of them,No,No,Maybe,Yes,Medium
+56.0,Male,United States,MA,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Yes,Maybe,some of them,some of them,No,No,Maybe,No,Small
+34.0,Female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,Yes,No,No,Yes,No,Medium
+57.0,Male,United States,CA,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Unsure,Maybe,Yes,Medium
+39.0,Male,United States,FL,No,No,No,Rarely,More than 1000,Yes,No,Maybe,No,Yes,Yes,Maybe,Not sure,No,No,some of them,some of them,No,Unsure,Maybe,No,Large
+32.0,Male,United States,WA,No,No,Yes,Never,500-1000,No,No,Yes,Maybe,Yes,Yes,Maybe,Very easy,Maybe,No,No,No,No,No,Yes,No,Large
+32.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+23.0,Male,United States,NC,No,Yes,No,Sometimes,6-25,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Small
+28.0,Male,United States,IL,No,No,Yes,Sometimes,26-100,Yes,No,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+29.0,Female,United States,OH,No,Yes,Yes,Rarely,6-25,No,Yes,Maybe,No,No,No,Maybe,Not sure,Yes,No,No,No,No,No,Maybe,No,Small
+45.0,Male,United States,VA,No,No,Yes,Often,1-5,Yes,Yes,Yes,Maybe,No,Yes,Maybe,Very easy,No,No,Yes,Yes,No,Unsure,Yes,No,Small
+38.0,Male,United States,MN,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Large
+19.0,Nonbinary / Other,United States,MO,No,Yes,Yes,Often,26-100,No,No,Maybe,Maybe,No,No,Maybe,Somewhat difficult,Maybe,Maybe,No,No,No,Unsure,No,No,Medium
+33.0,Female,United States,NC,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Large
+49.0,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Maybe,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,some of them,Yes,No,No,Yes,No,Medium
+28.0,Male,United States,NM,No,No,No,,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Medium
+39.0,Female,United States,TX,No,No,No,,More than 1000,Yes,No,No,Yes,No,No,Maybe,Very difficult,Yes,Maybe,No,No,No,Unsure,No,No,Large
+29.0,Male,United States,SC,No,No,No,,6-25,No,Yes,No,No,No,Maybe,Maybe,Somewhat difficult,Maybe,Maybe,some of them,No,No,No,Maybe,No,Small
+30.0,Male,United States,FL,No,No,No,,100-500,No,No,Yes,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,No,Medium
+33.0,Male,United States,WA,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,Yes,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,Small
+37.0,Male,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Maybe,Maybe,Yes,Not sure,Maybe,No,Yes,Yes,No,No,Maybe,No,Medium
+23.0,Male,United States,OH,No,No,Yes,Often,26-100,No,No,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,Yes,No,Medium
+43.0,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Maybe,No,Yes,Maybe,Somewhat easy,Yes,No,No,No,No,No,No,No,Medium
+26.0,Male,United States,NY,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Yes,Yes,some of them,No,No,No,No,No,Medium
+32.0,Male,United States,NY,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Very easy,No,No,Yes,Yes,Yes,Yes,Maybe,No,Small
+37.0,Female,United States,MO,No,No,No,,26-100,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Yes,No,some of them,No,No,No,Maybe,No,Medium
+29.0,Male,United States,NY,No,No,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Medium
+30.0,Male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Maybe,No,No,Maybe,Maybe,Very easy,No,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+29.0,Male,United States,CO,No,No,No,Never,6-25,No,Yes,Yes,Yes,No,Yes,Yes,Not sure,Maybe,No,some of them,some of them,No,No,No,No,Small
+32.0,Male,United States,PA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,Maybe,Maybe,Maybe,Very difficult,Yes,Maybe,some of them,No,No,No,No,No,Small
+37.0,Male,United States,NY,Yes,No,No,,6-25,Yes,Yes,Yes,Yes,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+27.0,Male,United States,MN,No,No,No,,26-100,No,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,No,Maybe,No,Medium
+25.0,Male,United States,MO,No,Yes,Yes,Never,6-25,Yes,Yes,Maybe,No,Yes,Maybe,Maybe,Not sure,Yes,No,some of them,Yes,No,No,No,No,Small
+33.0,Male,United States,WY,No,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Small
+29.0,Male,United States,MN,No,No,No,,More than 1000,No,No,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,No,No,No,Large
+29.0,Male,United States,MD,No,No,No,,6-25,Yes,Yes,Maybe,Maybe,No,No,Maybe,Very easy,No,No,Yes,Yes,No,No,Maybe,No,Small
+31.0,Male,United States,KY,No,No,No,,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,No,No,Yes,Yes,No,No,Maybe,No,Medium
+43.0,Male,United States,NY,No,No,No,,More than 1000,No,No,Yes,Yes,Maybe,Yes,Yes,Not sure,No,No,some of them,Yes,No,Unsure,Maybe,No,Large
+36.0,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,Yes,No,Maybe,No,Maybe,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,Unsure,Maybe,No,Large
+31.0,Male,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,Yes,Unsure,Yes,Maybe,No,Medium
+36.0,Male,United States,OH,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,No,Maybe,Very difficult,Maybe,Maybe,some of them,some of them,Unsure,Unsure,Maybe,No,Medium
+30.0,Male,United States,TX,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,Yes,Maybe,No,Medium
+35.0,Male,United States,CA,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,No,No,Yes,No,Small
+37.0,Male,United States,MI,No,Yes,Yes,Sometimes,100-500,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Medium
+36.0,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,No,No,Yes,No,Large
+29.0,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,No,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+38.0,Female,United States,NC,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Medium
+26.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Maybe,Maybe,Somewhat difficult,Yes,Maybe,No,No,No,Unsure,No,No,Large
+21.0,Male,United States,IL,No,No,Yes,Often,More than 1000,No,No,No,Yes,No,No,No,Not sure,Yes,No,some of them,some of them,No,Yes,No,Yes,Large
+37.0,Female,United States,CA,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,Yes,Yes,Maybe,Not sure,Maybe,Maybe,Yes,some of them,No,Unsure,Yes,No,Medium
+27.0,Female,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Maybe,Maybe,Yes,Maybe,Maybe,Somewhat easy,Yes,No,some of them,No,No,Unsure,No,No,Medium
+33.0,Female,United States,AZ,Yes,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,some of them,No,No,No,No,No,Small
+36.0,Female,United States,CA,No,No,Yes,Never,6-25,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,No,No,Small
+33.0,Male,United States,VA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,Small
+43.0,Nonbinary / Other,United States,VA,No,No,No,Sometimes,6-25,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,No,No,Small
+27.0,Female,United States,WA,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,No,Yes,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,No,Large
+33.0,Male,United States,WI,No,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Maybe,No,Small
+33.0,Male,United States,CA,Yes,No,No,,1-5,No,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,Yes,Yes,No,Unsure,Maybe,No,Small
+25.0,Male,United States,CA,No,No,No,,6-25,No,Yes,Maybe,No,No,No,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Small
+25.0,Male,United States,NE,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,No,some of them,some of them,No,No,No,Yes,Large
+25.0,Male,United States,CO,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Maybe,Maybe,Yes,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+33.0,Male,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+37.0,Female,United States,TX,No,No,Yes,Often,6-25,Yes,Yes,Maybe,Maybe,No,No,Yes,Somewhat difficult,Yes,No,some of them,some of them,No,Yes,No,Yes,Small
+35.0,Female,United States,LA,No,No,Yes,Sometimes,100-500,No,No,Yes,No,No,No,Yes,Very difficult,Yes,Maybe,No,some of them,No,Yes,No,Yes,Medium
+22.0,Female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Very difficult,Yes,Maybe,some of them,some of them,No,Unsure,No,Yes,Large
+38.0,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes,No,No,Maybe,Somewhat easy,Maybe,No,some of them,Yes,No,Unsure,No,Yes,Medium
+32.0,Female,United States,CA,No,Yes,Yes,Often,100-500,No,Yes,Yes,No,No,Maybe,Maybe,Not sure,Yes,No,some of them,Yes,No,No,Maybe,No,Medium
+35.0,Female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Maybe,No,Maybe,Maybe,Maybe,Very easy,Maybe,No,some of them,No,No,Unsure,Yes,No,Medium
+29.0,Male,United States,MD,No,No,No,Never,100-500,No,No,Yes,Yes,Yes,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Unsure,Maybe,No,Medium
+23.0,Male,United States,CA,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No,No,Maybe,Very easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Small
+39.0,Male,United States,CT,No,No,No,,26-100,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Yes,Maybe,No,No,No,No,Maybe,No,Medium
+30.0,Female,United States,CA,No,No,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,No,No,No,Yes,No,Large
+28.0,Nonbinary / Other,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No,No,Maybe,Somewhat difficult,Yes,Maybe,some of them,some of them,No,No,No,Yes,Medium
+40.0,Female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,No,some of them,Yes,No,No,Maybe,Yes,Medium
+36.0,Female,United States,CA,No,Yes,No,,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,No,some of them,No,Unsure,Yes,No,Small
+27.0,Male,United States,IN,No,No,No,,26-100,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Medium
+41.0,Male,United States,TX,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,No,No,Large
+35.0,Male,United States,MO,No,No,Yes,Often,1-5,No,No,No,No,No,No,Yes,Very difficult,Yes,No,some of them,some of them,No,Yes,No,Yes,Small
+28.0,Male,United States,NV,No,No,Yes,Never,6-25,Yes,Yes,No,Yes,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Small
+39.0,Female,United States,WA,No,No,No,Sometimes,26-100,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Yes,No,No,No,No,Yes,Maybe,No,Medium
+39.0,Male,United States,FL,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,some of them,Yes,No,No,Maybe,No,Large
+40.0,Female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Maybe,Yes,Maybe,Maybe,Not sure,Yes,Maybe,some of them,No,No,No,Maybe,No,Medium
+38.0,Male,United States,IL,No,No,No,Never,More than 1000,Yes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,No,Maybe,No,Large
+34.0,Male,United States,FL,No,No,No,,More than 1000,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,Yes,No,Large
+43.0,Male,United States,MA,No,No,No,,More than 1000,No,Yes,Yes,No,Yes,Yes,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,Maybe,No,Large
+48.0,Nonbinary / Other,United States,CA,No,Yes,No,Often,26-100,No,Yes,Maybe,No,No,No,No,Very difficult,Yes,Yes,No,some of them,No,No,No,Yes,Medium
+20.0,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Medium
+40.0,Male,United States,MI,Yes,No,No,Sometimes,1-5,Yes,Yes,Maybe,Maybe,No,No,Maybe,Somewhat easy,Yes,Maybe,some of them,No,No,No,Maybe,No,Small
+35.0,Male,United States,MI,No,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No,No,Yes,Not sure,No,No,some of them,Yes,No,No,Yes,No,Small
+29.0,Male,United States,WI,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,Maybe,No,some of them,No,No,No,Yes,No,Large
+40.0,Male,United States,CA,No,No,No,Never,100-500,No,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+29.0,Female,United States,CA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Maybe,Maybe,No,Maybe,Not sure,No,No,Yes,Yes,No,Unsure,Maybe,No,Medium
+34.0,Male,United States,TX,No,No,Yes,Sometimes,1-5,No,Yes,No,No,No,No,Maybe,Not sure,Yes,No,No,No,No,Yes,Maybe,No,Small
+24.0,Female,United States,NY,No,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,some of them,Yes,No,Yes,No,Yes,Small
+47.0,Female,United States,PA,No,No,No,,100-500,Yes,Yes,Maybe,No,No,Maybe,Maybe,Very difficult,Yes,Yes,No,No,No,No,No,No,Medium
+36.0,Male,United States,PA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,some of them,Yes,No,No,No,No,Large
+43.0,Male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,No,Maybe,No,No,Maybe,Maybe,Very difficult,Maybe,No,some of them,Yes,No,No,Maybe,No,Large
+31.0,Female,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Maybe,Somewhat difficult,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Medium
+35.0,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Maybe,Maybe,Yes,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Large
+33.0,Male,United States,TN,No,Yes,No,,26-100,No,No,Yes,No,No,No,Yes,Somewhat difficult,No,No,some of them,some of them,No,No,Maybe,No,Medium
+34.0,Male,United States,TN,No,No,Yes,Sometimes,100-500,No,Yes,Maybe,No,Yes,Maybe,Yes,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Medium
+40.0,Male,United States,TN,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Small
+40.0,Male,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,No,No,some of them,some of them,No,Unsure,Maybe,No,Large
+42.0,Male,United States,WI,No,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No,No,Maybe,Somewhat easy,Maybe,No,No,No,No,Unsure,Maybe,No,Small
+23.0,Male,United States,KY,No,Yes,No,,26-100,Yes,Yes,Yes,Yes,No,Maybe,Yes,Not sure,Maybe,No,No,some of them,No,No,Maybe,No,Medium
+25.0,Male,United States,CA,No,Yes,No,,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,Unsure,Yes,Yes,No,Large
+51.0,Male,United States,MN,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Large
+24.0,Male,United States,TN,No,No,No,,6-25,No,Yes,Maybe,Maybe,Maybe,No,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,Maybe,No,Small
+33.0,Male,United States,MN,No,No,No,,100-500,No,Yes,No,No,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,No,No,Medium
+23.0,Male,United States,IL,No,No,No,Never,100-500,No,No,Maybe,No,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,Unsure,Unsure,Maybe,No,Medium
+33.0,Male,United States,TN,No,Yes,Yes,Often,6-25,Yes,Yes,No,Yes,No,No,Maybe,Very difficult,Yes,No,some of them,Yes,No,Unsure,No,No,Small
+46.0,Male,United States,IL,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Unsure,Yes,No,Large
+35.0,Male,United States,DC,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Maybe,Somewhat easy,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Small
+39.0,Male,United States,KS,No,No,No,,1-5,Yes,Yes,No,Yes,No,No,Maybe,Very difficult,Maybe,Maybe,some of them,Yes,Unsure,Unsure,No,No,Small
+56.0,Male,United States,CA,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Large
+39.0,Male,United States,TN,No,No,No,,More than 1000,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Large
+37.0,Male,United States,OK,No,Yes,No,,500-1000,No,No,Yes,Yes,No,No,Yes,Very easy,Maybe,No,No,No,No,No,No,No,Large
+30.0,Male,United States,CA,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Very difficult,Yes,No,No,No,No,Unsure,Maybe,No,Small
+31.0,Male,United States,TN,No,No,No,,26-100,No,Yes,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,No,some of them,some of them,No,Unsure,No,No,Medium
+29.0,Male,United States,TX,No,No,No,,More than 1000,No,No,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,some of them,No,Unsure,Maybe,No,Large
+31.0,Male,United States,CO,No,No,Yes,Never,26-100,No,Yes,Yes,Yes,No,Maybe,Yes,Very easy,Maybe,No,No,No,No,No,Maybe,No,Medium
+29.0,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Yes,No,Medium
+30.0,Nonbinary / Other,United States,GA,No,No,No,Never,26-100,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,Very easy,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Medium
+37.0,Male,United States,TN,No,No,No,Never,500-1000,Yes,Yes,Yes,No,Yes,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,No,Yes,Yes,Large
+36.0,Male,United States,VA,Yes,No,No,Never,1-5,No,Yes,Yes,No,No,Maybe,Maybe,Somewhat difficult,No,No,some of them,Yes,Yes,Yes,Yes,No,Small
+35.0,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,No,No,Unsure,No,No,Medium
+41.0,Male,United States,DC,No,Yes,No,Never,500-1000,Yes,No,Maybe,No,No,No,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Large
+39.0,Male,United States,TN,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Yes,Maybe,Not sure,Maybe,Maybe,some of them,Yes,Unsure,Unsure,Maybe,Yes,Large
+42.0,Male,United States,VA,Yes,Yes,No,Sometimes,6-25,Yes,No,Yes,Maybe,Maybe,Yes,Maybe,Not sure,Maybe,Maybe,some of them,No,No,Unsure,Maybe,No,Small
+32.0,Male,United States,TN,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No,No,Maybe,Very difficult,Yes,No,some of them,No,No,Unsure,Maybe,No,Small
+29.0,Male,United States,TN,No,Yes,No,,100-500,No,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+30.0,Male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Yes,No,Maybe,Yes,Maybe,Very difficult,Yes,Yes,some of them,No,Unsure,Unsure,No,No,Medium
+40.0,Male,United States,TN,No,Yes,Yes,Often,500-1000,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,Yes,Maybe,No,Large
+51.0,Male,United States,TN,No,No,No,,100-500,No,No,Maybe,Maybe,No,Maybe,Maybe,Somewhat difficult,No,No,some of them,Yes,No,No,Maybe,No,Medium
+33.0,Male,United States,IN,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,some of them,Yes,No,No,Yes,No,Large
+50.0,Male,United States,VA,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,Yes,No,Small
+24.0,Male,United States,TX,No,No,No,Sometimes,26-100,Yes,Yes,Maybe,No,No,Maybe,Maybe,Somewhat easy,No,No,some of them,Yes,No,Unsure,No,No,Medium
+25.0,Male,United States,TX,No,Yes,Yes,Rarely,26-100,No,No,No,No,No,No,Maybe,Not sure,Yes,Maybe,No,No,No,Unsure,No,No,Medium
+25.0,Female,United States,CA,Yes,No,Yes,Often,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,some of them,some of them,No,No,Yes,Yes,Small
+51.0,Male,United States,CO,Yes,No,No,Never,1-5,No,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,some of them,some of them,Unsure,Unsure,Maybe,No,Small
+49.0,Male,United States,OR,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Unsure,No,Yes,Large
+30.0,Male,United States,OK,No,No,No,,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Maybe,Not sure,Yes,Maybe,No,No,No,No,Maybe,No,Large
+25.0,Female,United States,OH,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,No,Maybe,Not sure,Yes,Yes,No,No,No,No,No,No,Large
+36.0,Male,United States,TN,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Maybe,No,No,No,No,Unsure,Maybe,No,Large
+48.0,Male,United States,VA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,Maybe,Yes,Yes,No,Unsure,Yes,Yes,Large
+53.0,Male,United States,OR,No,No,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No,Yes,Maybe,Not sure,Maybe,Maybe,some of them,No,No,No,Maybe,No,Small
+33.0,Male,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,Yes,No,Yes,Maybe,Somewhat easy,No,No,Yes,Yes,No,No,Maybe,No,Medium
+30.0,Male,United States,PA,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,some of them,some of them,Unsure,Unsure,Maybe,No,Small
+31.0,Male,United States,SC,No,No,No,,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,some of them,Yes,Unsure,Yes,Yes,No,Large
+22.0,Female,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Yes,Yes,No,No,No,No,Maybe,No,Large
+28.0,Male,United States,TN,No,Yes,No,Sometimes,6-25,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Somewhat easy,No,No,some of them,Yes,No,Yes,Maybe,No,Small
+35.0,Male,United States,UT,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,some of them,some of them,No,No,No,No,Medium
+28.0,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Yes,No,Medium
+33.0,Male,United States,MO,No,Yes,No,,500-1000,No,Yes,Yes,No,Maybe,Maybe,Maybe,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Large
+29.0,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,No,Maybe,Not sure,Yes,Maybe,No,No,No,No,Maybe,No,Large
+29.0,Male,United States,NY,No,No,No,,26-100,No,Yes,Yes,Yes,Yes,Yes,Maybe,Somewhat easy,No,No,some of them,some of them,Unsure,Unsure,Yes,No,Medium
+25.0,Male,United States,TX,No,No,No,,100-500,Yes,Yes,Yes,No,No,No,Yes,Not sure,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Medium
+31.0,Male,United States,MO,No,Yes,No,Never,100-500,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Very easy,No,No,some of them,Yes,No,No,Maybe,No,Medium
+35.0,Female,United States,GA,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Maybe,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,some of them,Yes,No,Unsure,Yes,No,Small
+34.0,Male,United States,TX,No,No,No,Often,1-5,No,Yes,Maybe,No,No,Yes,Maybe,Very easy,No,No,some of them,Yes,No,Unsure,Yes,No,Small
+43.0,Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,some of them,No,No,Unsure,No,Yes,Medium
+38.0,Male,United States,WA,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Maybe,No,No,Maybe,Very difficult,Yes,Yes,No,some of them,No,Unsure,No,No,Medium
+26.0,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Maybe,Maybe,No,Yes,Yes,Very difficult,Maybe,No,some of them,some of them,Yes,Yes,No,Yes,Large
+42.0,Male,United States,TX,No,No,Yes,Often,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,Unsure,Maybe,No,Small
+32.0,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,some of them,some of them,No,No,Maybe,No,Large
+44.0,Male,United States,WA,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,some of them,Yes,No,Unsure,No,No,Small
+28.0,Male,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,No,No,No,Large
+40.0,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,some of them,some of them,No,Unsure,Maybe,Yes,Large
+31.0,Female,United States,AZ,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Maybe,Yes,Somewhat easy,Maybe,No,some of them,Yes,No,No,Yes,No,Large
+32.0,Male,United States,WA,No,Yes,No,Sometimes,100-500,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,Yes,No,some of them,No,No,No,Maybe,No,Medium
+28.0,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Maybe,No,Maybe,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,No,No,Unsure,No,No,Large
+39.0,Male,United States,AZ,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No,No,Yes,Not sure,Yes,No,some of them,No,No,No,No,No,Medium
+45.0,Male,United States,NY,No,No,No,,More than 1000,No,No,Yes,Yes,Yes,Yes,Maybe,Not sure,No,No,some of them,some of them,No,No,Yes,No,Large
+43.0,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Somewhat easy,No,No,Yes,Yes,Unsure,Yes,Yes,No,Large
+35.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe,Yes,Maybe,Very difficult,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+40.0,Male,United States,WA,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Maybe,Maybe,Yes,Very easy,Maybe,No,some of them,some of them,No,No,Maybe,No,Small
+36.0,Female,United States,WA,No,Yes,Yes,Rarely,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Yes,Maybe,some of them,No,No,No,Maybe,No,Small
+38.0,Male,United States,TN,No,No,No,,6-25,No,Yes,No,No,No,No,Yes,Not sure,Maybe,No,some of them,Yes,Unsure,Unsure,Maybe,No,Small
+30.0,Male,United States,WA,No,Yes,No,Never,More than 1000,No,No,Maybe,No,No,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,No,No,No,Large
+26.0,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,Unsure,No,No,Large
+43.0,Male,United States,MI,No,No,No,Sometimes,More than 1000,Yes,Yes,No,Maybe,No,No,Maybe,Very difficult,Yes,Maybe,No,No,No,Unsure,No,Yes,Large
+40.0,Male,United States,IN,No,Yes,Yes,Rarely,6-25,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,No,No,Yes,Yes,No,Unsure,Maybe,No,Small
+49.0,Male,United States,GA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,No,No,Yes,Yes,No,No,Yes,No,Large
+38.0,Male,United States,WA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,some of them,some of them,No,Unsure,No,Yes,Large
+40.0,Male,United States,ME,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,Yes,No,Unsure,No,No,Small
+28.0,Male,United States,NY,No,Yes,Yes,Often,100-500,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,Yes,Maybe,No,Medium
+23.0,Male,United States,PA,No,Yes,No,Sometimes,26-100,No,Yes,Yes,Maybe,Yes,Yes,Yes,Somewhat easy,No,No,No,No,No,Unsure,Maybe,No,Medium
+30.0,Female,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Maybe,Yes,Very easy,No,No,some of them,No,No,No,Yes,No,Medium
+39.0,Male,United States,MN,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,No,some of them,Yes,No,No,Maybe,No,Medium
+31.0,Female,United States,TX,No,Yes,No,Never,More than 1000,No,No,Yes,Maybe,No,Maybe,Maybe,Not sure,Yes,Yes,No,No,No,No,Maybe,No,Large
+25.0,Male,United States,PA,No,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No,Maybe,Yes,Somewhat easy,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Small
+42.0,Male,United States,IN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,No,Unsure,Maybe,No,Small
+34.0,Male,United States,PA,No,Yes,Yes,Often,100-500,No,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Yes,Unsure,Unsure,Maybe,No,Medium
+26.0,Female,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,Unsure,Unsure,Maybe,Yes,Medium
+38.0,Male,United States,PA,No,Yes,Yes,Sometimes,100-500,Yes,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Maybe,No,Medium
+34.0,Male,United States,SD,No,No,No,Sometimes,100-500,No,Yes,Maybe,No,No,No,Maybe,Not sure,Yes,No,some of them,No,No,Unsure,Maybe,No,Medium
+39.0,Male,United States,IN,No,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,some of them,Yes,Unsure,Yes,Yes,No,Small
+44.0,Female,United States,CA,No,No,No,,100-500,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Yes,No,No,No,No,No,Maybe,No,Medium
+40.0,Male,United States,TN,No,No,No,,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,No,No,Yes,No,No,Maybe,No,Large
+33.0,Female,United States,TX,Yes,No,No,Never,1-5,Yes,Yes,No,Yes,Maybe,Maybe,Yes,Somewhat easy,Maybe,No,No,some of them,No,No,Yes,No,Small
+24.0,Female,United States,TN,No,Yes,No,Sometimes,More than 1000,No,No,Yes,Yes,No,Maybe,Maybe,Somewhat difficult,Yes,Maybe,some of them,some of them,No,No,No,Yes,Large
+38.0,Female,United States,OR,No,Yes,No,Sometimes,26-100,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Medium
+31.0,Male,United States,SD,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Maybe,Yes,Yes,Yes,Not sure,Yes,Maybe,some of them,some of them,No,Unsure,Yes,No,Large
+26.0,Female,United States,NY,No,No,No,,6-25,No,Yes,Maybe,Maybe,No,No,Maybe,Somewhat easy,No,No,Yes,Yes,No,Unsure,Yes,No,Small
+46.0,Nonbinary / Other,United States,CT,No,No,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Maybe,Not sure,Yes,No,some of them,some of them,No,No,No,Yes,Large
+30.0,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+30.0,Female,United States,GA,No,Yes,Yes,Sometimes,500-1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,some of them,some of them,No,No,No,Yes,Large
+32.0,Male,United States,TN,No,No,No,Never,6-25,No,Yes,Yes,Yes,Yes,Yes,Maybe,Somewhat easy,No,No,Yes,Yes,No,Unsure,Yes,No,Small
+37.0,Male,United States,IN,No,Yes,No,Sometimes,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Somewhat easy,Maybe,No,some of them,some of them,No,Unsure,No,No,Medium
+42.0,Male,United States,CA,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Small
+25.0,Female,United States,OR,No,No,No,Never,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,Maybe,No,some of them,Yes,Unsure,No,Yes,No,Large
+19.0,Male,United States,IN,No,No,No,Sometimes,1-5,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Small
+40.0,Female,United States,GA,No,Yes,No,Never,100-500,Yes,Yes,Yes,Yes,Yes,No,Maybe,Not sure,Yes,Yes,No,No,No,No,Maybe,No,Medium
+34.0,Male,United States,IN,No,No,No,,More than 1000,No,No,Yes,Maybe,Yes,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,Yes,No,No,Maybe,No,Large
+26.0,Male,United States,MN,No,Yes,No,,6-25,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,No,No,some of them,Yes,No,No,Yes,No,Small
+31.0,Male,United States,MN,No,Yes,Yes,Rarely,6-25,No,Yes,Maybe,Maybe,Maybe,Maybe,Yes,Not sure,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Small
+40.0,Male,United States,NC,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Maybe,Yes,Maybe,Maybe,Not sure,Yes,Maybe,some of them,some of them,No,Unsure,No,No,Large
+31.0,Female,United States,FL,No,Yes,Yes,Often,26-100,No,Yes,No,No,No,No,No,Very difficult,Yes,No,No,No,No,Yes,No,Yes,Medium
+36.0,Male,United States,MN,No,No,No,Never,100-500,No,No,Maybe,No,No,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,Unsure,Maybe,Yes,Medium
+44.0,Male,United States,MO,No,No,No,,More than 1000,Yes,No,Maybe,No,Maybe,Maybe,Yes,Not sure,Yes,No,some of them,No,No,No,No,No,Large
+34.0,Female,United States,CA,No,No,No,Sometimes,1-5,No,Yes,No,Maybe,No,No,Maybe,Very easy,No,No,some of them,Yes,No,Unsure,Yes,No,Small
+35.0,Male,United States,OR,No,No,No,,6-25,Yes,Yes,No,No,No,No,Maybe,Not sure,No,No,No,No,No,No,Maybe,No,Small
+28.0,Female,United States,OH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Somewhat easy,Yes,No,some of them,some of them,No,Unsure,No,No,Medium
+33.0,Male,United States,NY,No,No,No,,6-25,Yes,Yes,Yes,No,Maybe,Yes,Yes,Not sure,No,No,some of them,Yes,No,No,Yes,No,Small
+40.0,Male,United States,WI,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Maybe,Not sure,Yes,No,No,No,No,Unsure,Maybe,No,Large
+26.0,Male,United States,WA,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Small
+41.0,Male,United States,IL,Yes,No,Yes,Often,1-5,Yes,No,No,Yes,Yes,Yes,Yes,Very difficult,No,No,some of them,some of them,No,No,Yes,Yes,Small
+26.0,Female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Maybe,Not sure,No,No,some of them,Yes,No,Unsure,No,Yes,Large
+23.0,Female,United States,IL,No,Yes,No,Sometimes,26-100,No,No,No,No,No,No,Maybe,Somewhat difficult,Yes,No,No,some of them,No,Unsure,No,No,Medium
+36.0,Male,United States,FL,No,No,No,Never,1-5,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Very easy,No,No,some of them,some of them,No,No,Maybe,No,Small
+42.0,Male,United States,TN,No,No,No,Rarely,More than 1000,No,No,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,No,No,Large
+39.0,Male,United States,WA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No,Maybe,Yes,Very easy,No,No,some of them,Yes,No,No,Yes,No,Large
+27.0,Male,United States,CA,No,No,No,Never,6-25,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,Maybe,No,some of them,Yes,Unsure,Unsure,Maybe,No,Small
+33.0,Male,United States,FL,Yes,No,No,Never,6-25,Yes,Yes,Maybe,No,No,No,No,Very easy,Maybe,No,some of them,Yes,No,Unsure,Yes,No,Small
+28.0,Female,United States,OR,No,No,Yes,Rarely,6-25,No,Yes,Yes,Yes,Maybe,Yes,Yes,Very easy,No,No,some of them,some of them,No,Yes,Maybe,No,Small
+29.0,Female,United States,NJ,No,No,Yes,Often,More than 1000,Yes,No,Yes,No,No,No,Maybe,Somewhat easy,No,No,some of them,Yes,Unsure,Unsure,Maybe,No,Large
+27.0,Male,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Maybe,Maybe,No,No,Yes,Very difficult,Maybe,No,some of them,No,No,Unsure,No,No,Medium
+44.0,Male,United States,FL,Yes,No,No,Never,1-5,Yes,Yes,Maybe,No,No,No,Yes,Somewhat difficult,No,No,No,No,No,No,Maybe,No,Small
+25.0,Male,United States,UT,No,No,Yes,Often,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Somewhat easy,Maybe,No,some of them,No,No,Unsure,Maybe,No,Small
+34.0,Male,United States,NJ,No,No,No,Never,6-25,Yes,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Somewhat easy,Maybe,Maybe,No,some of them,No,Unsure,Maybe,No,Small
+26.0,Male,United States,PA,No,No,No,Never,More than 1000,No,No,Yes,Yes,No,Maybe,Maybe,Somewhat difficult,Maybe,No,No,Yes,No,No,Maybe,No,Large
+48.0,Male,United States,IN,No,No,No,Never,26-100,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+39.0,Female,United States,OH,No,No,Yes,Sometimes,6-25,Yes,Yes,No,No,No,No,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,Unsure,No,No,Small
+43.0,Male,United States,OH,No,No,No,Sometimes,More than 1000,Yes,Yes,Yes,Maybe,No,Yes,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Large
+41.0,Male,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Maybe,Not sure,Maybe,Maybe,some of them,No,No,No,Yes,Yes,Large
+25.0,Male,United States,IN,No,No,No,Never,More than 1000,No,No,Maybe,No,No,No,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Large
+31.0,Male,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,No,Maybe,Somewhat easy,Maybe,No,some of them,No,No,Unsure,No,No,Medium
+40.0,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,Yes,Yes,No,No,No,Unsure,No,Yes,Large
+43.0,Male,United States,VA,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,Maybe,Maybe,some of them,some of them,No,Unsure,Maybe,No,Small
+27.0,Female,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Yes,some of them,No,Unsure,No,Yes,Large
+37.0,Female,United States,NJ,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,Unsure,Maybe,No,Medium
+25.0,Male,United States,UT,No,Yes,Yes,Often,1-5,No,Yes,No,Yes,No,No,Yes,Very easy,Maybe,No,Yes,Yes,No,Unsure,No,No,Small
+30.0,Female,United States,TN,No,Yes,Yes,Often,More than 1000,No,No,Yes,No,No,No,Maybe,Somewhat difficult,Yes,No,No,No,No,Unsure,No,No,Large
+38.0,Male,United States,IN,No,Yes,No,Never,More than 1000,No,No,Yes,Maybe,Yes,Yes,Maybe,Not sure,Yes,Maybe,some of them,No,No,No,No,No,Large
+32.0,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,Maybe,Yes,Not sure,No,No,some of them,Yes,No,Unsure,Maybe,No,Medium
+28.0,Female,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Yes,No,Medium
+43.0,Male,United States,TX,No,Yes,No,Never,100-500,No,No,Yes,Yes,No,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,some of them,No,Unsure,No,No,Medium
+32.0,Male,United States,TN,No,Yes,Yes,Often,100-500,No,Yes,No,Yes,No,No,Maybe,Very difficult,Yes,No,Yes,Yes,No,Yes,No,No,Medium
+25.0,Male,United States,WA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Maybe,Yes,Not sure,Yes,No,No,No,No,No,Yes,No,Large
+37.0,Male,United States,UT,No,No,Yes,Sometimes,100-500,No,Yes,Yes,No,No,Yes,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Medium
+36.0,Male,United States,AL,Yes,No,Yes,Sometimes,1-5,No,No,No,Yes,No,No,No,Very difficult,No,No,No,No,No,No,No,Yes,Small
+24.0,Male,United States,WI,No,Yes,Yes,Rarely,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Very easy,No,No,Yes,Yes,Unsure,Yes,Yes,No,Small
+40.0,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Somewhat difficult,Maybe,No,some of them,some of them,No,Unsure,Maybe,Yes,Large
+29.0,Male,United States,WI,No,No,No,,More than 1000,No,No,Maybe,Maybe,Yes,Maybe,Yes,Somewhat easy,No,No,some of them,Yes,No,Unsure,Yes,No,Large
+43.0,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Maybe,No,No,Maybe,Maybe,Not sure,No,No,Yes,some of them,No,No,Yes,No,Large
+29.0,Male,United States,NY,No,No,No,,6-25,Yes,Yes,Yes,Maybe,No,Yes,Maybe,Not sure,Maybe,No,some of them,Yes,Unsure,Yes,Maybe,No,Small
+26.0,Male,United States,OH,No,Yes,No,Sometimes,100-500,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+35.0,Female,United States,WA,No,Yes,No,Sometimes,6-25,Yes,Yes,Maybe,No,No,No,Maybe,Somewhat easy,No,No,Yes,some of them,No,No,Yes,No,Small
+45.0,Male,United States,CA,No,No,No,Never,6-25,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Yes,Maybe,some of them,No,No,Unsure,Maybe,No,Small
+25.0,Male,United States,SC,No,No,Yes,Rarely,6-25,Yes,Yes,No,Yes,No,Maybe,Maybe,Somewhat easy,Maybe,No,No,some of them,No,Unsure,Maybe,No,Small
+33.0,Female,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Maybe,Maybe,Maybe,Not sure,Yes,No,No,No,No,Unsure,Maybe,No,Large
+25.0,Male,United States,MN,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Maybe,No,Maybe,Maybe,Maybe,Very easy,No,No,Yes,Yes,Unsure,Yes,Maybe,No,Small
+40.0,Male,United States,WA,No,No,No,,More than 1000,No,No,Yes,Maybe,Maybe,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,some of them,No,Unsure,Maybe,No,Large
+46.0,Male,United States,PA,No,Yes,Yes,Sometimes,6-25,No,Yes,Maybe,Yes,No,Maybe,Maybe,Not sure,Yes,Maybe,No,some of them,No,Unsure,Maybe,No,Small
+38.0,Male,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Yes,No,Yes,Maybe,No,Large
+34.0,Male,United States,VT,No,No,No,Never,1-5,Yes,Yes,No,Yes,No,No,Maybe,Not sure,Yes,Yes,No,No,No,No,Maybe,No,Small
+45.0,Female,United States,MI,No,No,Yes,Rarely,26-100,No,No,Maybe,No,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+35.0,Male,United States,NY,No,No,No,,6-25,No,Yes,Maybe,Maybe,Maybe,Maybe,Yes,Not sure,No,No,No,No,No,No,Yes,No,Small
+20.0,Female,United States,NY,No,No,Yes,Sometimes,26-100,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,some of them,Unsure,Unsure,Maybe,No,Medium
+28.0,Male,United States,MI,No,No,No,,More than 1000,No,No,Yes,No,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,Large
+42.0,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Maybe,Not sure,Yes,No,some of them,some of them,No,Yes,No,No,Medium
+36.0,Female,United States,TN,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,some of them,No,No,No,Maybe,No,Large
+26.0,Female,United States,NY,No,Yes,No,Sometimes,26-100,Yes,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,No,No,No,No,No,Maybe,No,Medium
+35.0,Male,United States,IN,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,No,Yes,Maybe,Somewhat easy,Yes,No,No,some of them,No,Yes,Maybe,No,Large
+32.0,Male,United States,NC,No,No,No,Rarely,6-25,No,Yes,Yes,Maybe,No,Maybe,Maybe,Not sure,Maybe,No,No,some of them,No,Unsure,Maybe,No,Small
+32.0,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,some of them,some of them,No,No,Maybe,Yes,Large
+39.0,Male,United States,TN,No,Yes,Yes,Often,26-100,No,No,Maybe,Maybe,No,No,Maybe,Somewhat easy,Yes,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+30.0,Male,United States,MN,No,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,No,No,Maybe,Not sure,No,No,No,No,No,No,Maybe,No,Small
+29.0,Male,United States,NC,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Maybe,Not sure,Yes,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+26.0,Male,United States,TX,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Maybe,No,No,Maybe,Maybe,Somewhat easy,Maybe,No,some of them,some of them,Unsure,Unsure,Maybe,No,Small
+46.0,Female,United States,CA,No,No,Yes,Often,100-500,Yes,No,Yes,Yes,No,No,Yes,Not sure,Maybe,No,some of them,some of them,No,Unsure,No,No,Medium
+32.0,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes,Maybe,Maybe,Not sure,Maybe,No,Yes,Yes,No,No,Maybe,No,Large
+29.0,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,Yes,Yes,Maybe,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+32.0,Female,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,Maybe,Maybe,Not sure,Maybe,No,some of them,No,No,No,No,No,Large
+29.0,Male,United States,IL,No,No,No,,More than 1000,No,Yes,Maybe,Maybe,No,No,Maybe,Not sure,Maybe,No,some of them,Yes,Unsure,Yes,No,No,Large
+30.0,Male,United States,IL,No,No,No,,More than 1000,No,No,Yes,No,Yes,Yes,Maybe,Not sure,Yes,Maybe,No,No,No,No,Maybe,No,Large
+40.0,Female,United States,MN,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Unsure,Yes,Yes,Medium
+38.0,Male,United States,NY,No,Yes,No,,6-25,No,Yes,Maybe,No,No,No,Maybe,Somewhat difficult,No,No,some of them,Yes,No,No,Maybe,Yes,Small
+26.0,Female,United States,MI,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,Maybe,No,No,No,Unsure,No,No,Medium
+29.0,Male,United States,OH,No,No,No,Never,26-100,No,Yes,No,No,No,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,Yes,No,Yes,Medium
+32.0,Female,United States,NY,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,Maybe,some of them,No,No,No,No,No,Medium
+38.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Not sure,Maybe,No,some of them,No,No,Unsure,No,Yes,Large
+72.0,Female,United States,IN,No,Yes,Yes,Never,500-1000,Yes,No,Yes,Maybe,Maybe,Yes,Maybe,Somewhat easy,Maybe,Maybe,some of them,Yes,No,No,Maybe,Yes,Large
+35.0,Female,United States,IN,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No,No,Yes,Not sure,Maybe,Maybe,some of them,some of them,No,No,Yes,No,Small
+28.0,Female,United States,VA,No,No,Yes,Often,6-25,No,Yes,No,Yes,No,No,Maybe,Very difficult,Yes,Maybe,some of them,some of them,No,No,Maybe,No,Small
+27.0,Nonbinary / Other,United States,OK,No,No,No,Never,100-500,No,No,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,No,No,Yes,No,Medium
+56.0,Female,United States,OR,Yes,No,No,Rarely,1-5,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,Maybe,Maybe,No,No,No,No,Maybe,No,Small
+38.0,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,No,Maybe,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Medium
+40.0,Male,United States,AL,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,No,some of them,No,No,No,Yes,No,Small
+44.0,Male,United States,OH,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No,Yes,Yes,Not sure,Maybe,No,some of them,some of them,No,No,Maybe,No,Medium
+32.0,Male,United States,TX,No,No,Yes,Often,26-100,Yes,Yes,Yes,Maybe,No,Maybe,Maybe,Very difficult,Yes,Maybe,some of them,No,No,No,Maybe,No,Medium
+28.0,Female,United States,TX,No,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No,Maybe,Somewhat easy,Yes,Yes,some of them,No,No,No,No,Yes,Small
+23.0,Male,United States,TX,No,No,Yes,Sometimes,1-5,No,Yes,No,Yes,No,No,No,Very easy,Maybe,Maybe,some of them,Yes,No,No,No,No,Small
+33.0,Male,United States,FL,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Not sure,Maybe,No,some of them,No,No,Unsure,Maybe,No,Medium
+38.0,Male,United States,TX,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Maybe,No,Large
+46.0,Male,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Maybe,No,No,No,Maybe,Not sure,Maybe,No,some of them,No,No,No,No,No,Medium
+46.0,Male,United States,MD,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Not sure,No,No,some of them,Yes,Yes,Yes,Maybe,No,Medium
+25.0,Male,United States,MN,No,Yes,Yes,Sometimes,26-100,No,Yes,Maybe,Yes,No,No,Maybe,Somewhat easy,Yes,No,some of them,some of them,No,Unsure,Maybe,No,Medium
+60.0,Male,United States,CA,No,No,Yes,Often,More than 1000,Yes,Yes,Maybe,No,Yes,Maybe,Maybe,Somewhat easy,Maybe,Maybe,some of them,No,No,Unsure,Maybe,No,Large
+28.0,Male,United States,TN,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,some of them,Yes,No,No,No,Yes,Large
+43.0,Female,United States,FL,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No,Yes,Maybe,Not sure,No,No,some of them,Yes,No,No,Maybe,No,Large
+32.0,Male,United States,OR,No,No,No,Never,100-500,No,Yes,Yes,Maybe,Maybe,Yes,Maybe,Somewhat easy,No,No,No,some of them,Unsure,Yes,Maybe,No,Medium
+41.0,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No,Maybe,Maybe,Not sure,Yes,Maybe,No,No,No,No,Maybe,No,Medium
+30.0,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Maybe,No,Yes,Very easy,No,No,Yes,Yes,Unsure,Unsure,Yes,No,Medium
+30.0,Male,United States,CA,Yes,Yes,Yes,Often,26-100,No,Yes,Yes,Maybe,Yes,Yes,Maybe,Not sure,No,No,some of them,Yes,Unsure,Unsure,Yes,No,Medium
+29.0,Male,United States,NC,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Yes,No,Yes,Not sure,Yes,No,some of them,No,No,Unsure,No,No,Medium
+36.0,Male,United States,UT,No,Yes,No,Rarely,More than 1000,No,No,Maybe,No,Yes,Yes,Maybe,Somewhat easy,Maybe,Maybe,some of them,some of them,No,No,Maybe,No,Large
+32.0,Male,United States,IL,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,some of them,Yes,No,No,Yes,No,Medium
+34.0,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No,No,Maybe,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Large
+46.0,Female,United States,NC,No,No,No,,100-500,Yes,Yes,No,Yes,No,No,Maybe,Not sure,Yes,No,No,No,No,No,No,No,Medium
+25.0,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,No,No,Yes,Not sure,Maybe,No,some of them,No,No,No,Maybe,No,Medium
